@@ -1,0 +1,8 @@
+{
+  "name": "monezia",
+  "app_id": "e540618a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
